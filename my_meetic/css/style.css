@@ -1,0 +1,18 @@
+body {
+  background-image: url("http://www.gingercreek.org/wp-content/uploads/2018/07/142443-widescreen-blue-ombre-background-1920x1080-photo.jpg")
+}
+.logo {
+  float: right;
+  margin-top: -100px;
+  height: 250px;
+  width: 250px;
+}
+
+.titre {
+  margin-top:100px;
+  /* position: absolute; top: 250px; left: 100px; */
+}
+
+.container {
+  margin-top: 250px;
+}
